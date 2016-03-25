@@ -29,6 +29,7 @@ Methods are based on the following:
 Either run python (or jupyter notebook) in the installed SoundscapeEcology directory, or add the directory's path to your $PYTHONPATH environment variable.
 
 To test that everything is installed correctly, launch a python shell or notebook and type:
+
 	from bregman.suite import *
 	from soundscapeecology import *
 
