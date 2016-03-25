@@ -10,6 +10,11 @@ Methods are based on the following:
 2. Smaragdis, P. and Raj, B. 2007. [Shift-Invariant Probabilistic Latent Component Analysis, tech report](http://paris.cs.illinois.edu/pubs/plca-report.pdf), MERL technical report, Camrbidge, MA.
 
 <h2>Requirements</h2>
-To run this workbook you will need: Numpy, Matlplotlib, the [Bregman Audio Toolkit](http://github.com/bregmanstudio/BregmanToolkit), and the [Bregman SoundscapeEcology Toolkit](http://github.com/bregmanstudio/SoundscapeEcology).
+1. Numpy / Matlplotlib (the Anaconda Python distribution is recommended for these)
+2. The [Bregman Audio Toolkit](http://github.com/bregmanstudio/BregmanToolkit)
+3. Recommended: [scikits.audiolab v0.11+](https://pypi.python.org/pypi/scikits.audiolab/)
+
+<h2>License</h2>
+MIT License. See LICENSE.txt.
 
     
