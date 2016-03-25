@@ -3,7 +3,7 @@
 
 A toolkit for matrix factorization of soundscape spectrograms into independent streams of sound objects, possibly representing individual species or independent group behaviours. 
 
-The method employs shift-invariant probabilistic latent component analysis (SIPLCA) for factorizing a time-frequency matrix (2D array) into a convolution of 2D kernels (patches) with sparse activation functions. 
+The method employs shift-invariant probabilistic latent component analysis (SIPLCA) for factoring a time-frequency matrix (2D array) into a convolution of 2D kernels (patches) with sparse activation functions. 
 
 Methods are based on the following:
 
